@@ -1,5 +1,6 @@
 # Bee Pi
-> ⚠️ **WARNING: This code is under development and not yet ready for production use. Use at your own risk.**
+> 🔧 **NOTE: This project is currently under development. Features and documentation may be incomplete and subject to change without notice.**
+
 
 ## Description
 A raspberry pi device to connected to [BEEMINDER](www.beeminder.com) API to build habits. Press the button every time you complete a task and the device will automatically update your BEEMINDER goal. At random intervals the device will also instruct you to reward yourself with a treat.
